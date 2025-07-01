@@ -1,0 +1,22 @@
+[
+  "artistically plated deconstructed tiramisu with coffee gelato",
+  "chocolate sphere dessert with molten center and berry coulis",
+  "modern sushi platter with gold leaf garnish",
+  "vertical slice of rainbow cake with precise layers",
+  "smoked salmon appetizer with microgreens and edible flowers",
+  "molecular gastronomy cocktail with sphere ice",
+  "handcrafted artisan bread basket with flavored butters",
+  "tasting menu progression on slate plates",
+  "deconstructed cheesecake with berry compote",
+  "signature Koffeenest espresso drink with latte art",
+  "truffle-infused pasta dish with shaved truffles",
+  "vegetable carpaccio with edible soil and foam",
+  "mini dessert tower for weddings",
+  "sous-vide steak with modernist sauces",
+  "breakfast platter with avocado rose",
+  "vegan chocolate mousse with coconut whip",
+  "signature cocktail with smoke effect",
+  "charcuterie board with geometric arrangement",
+  "gold-dusted macarons in color gradient",
+  "plant-based burger with artisan bun"
+]
